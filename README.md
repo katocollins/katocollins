@@ -8,8 +8,6 @@ I'm a passionate Software Engineer from Uganda, with a keen interest in developi
 
 ### Programming Languages
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333333)
@@ -25,7 +23,6 @@ I'm a passionate Software Engineer from Uganda, with a keen interest in developi
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff)
 
 ### Tools and Platforms
