@@ -42,7 +42,7 @@ I'm a passionate Software Engineer from Uganda, with a keen interest in developi
 
 ## 📈 GitHub Stats
 
-![Kato Collins' GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-enginex&show_icons=true&theme=react&hide=issues&hide_title=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-enginex&layout=compact&theme=react)
+![Kato Collins' GitHub Stats](https://github-readme-stats.vercel.app/api?username=katocollins&show_icons=true&theme=react&hide=issues&hide_title=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katocollins&layout=compact&theme=react)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:4c6ef5,100:00c7d4&height=150)
