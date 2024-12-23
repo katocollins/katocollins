@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:4c6ef5,100:00c7d4&height=150&section=header&text=Welcome%20to%20Kato%20Collins'%20GitHub%20Profile!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
-
 # Hello, I'm Kato Collins 👋
 
 I'm a passionate Software Engineer from Uganda, with a keen interest in developing efficient, scalable, and user-friendly applications. I enjoy tackling complex problems and turning ideas into reality through code.
