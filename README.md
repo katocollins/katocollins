@@ -1,4 +1,4 @@
-# Hello, I'm Kato Collins 👋
+# Hello, Collins here 👋
 
 I'm a passionate Software Engineer from Uganda, with a keen interest in developing efficient, scalable, and user-friendly applications. I enjoy tackling complex problems and turning ideas into reality through code.
 
